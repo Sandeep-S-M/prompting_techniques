@@ -197,7 +197,7 @@ provide the complete sequence of steps for me, fill the sequence if any steps is
 
 
 
-## **Alternative approach pattern:**
+# **Alternative approach pattern:**
 
 method:-
 
@@ -222,7 +222,7 @@ At the end, ask me what bullet point expand next
 Ask me for what to Outline
 
 
-##** Menu Action Pattern**
+## ** Menu Action Pattern**
 
 -> when I type: x you do Y
 -> At the end ask me for next action
@@ -231,7 +231,7 @@ example : when ever I type "ADDitem" ask me for the item then update it in the g
 when I type "remove item" ask for the item and remove it from groceries list.
 
 
-##** Fact check List pattern**:
+## ** Fact check List pattern**:
 -> generate a set of facts from the output
 -> the set of facts should be inserted position in output
 -> the facts should be fundamental facts with veracity in the output 
@@ -240,7 +240,7 @@ example: whenever your output text, generate a set of facts from output  ,these 
 these facts should be the fundamental facts with veracity in the output generated
 
 
-##** TASK generation pattern**:
+## ** TASK generation pattern**:
 
 its just creating an end for each prompt to accomplish
 
@@ -252,7 +252,7 @@ example: for any pattern in previously discussed add this at the end
 at the end , please maintain the description add a disclaimer = "good handwriting , ChatGPT generated text don't veracity
 
 
-##** semantic Filter pattern**:
+## ** semantic Filter pattern**:
 
 method:
 -> filter this information to remove X 
